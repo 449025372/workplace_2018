@@ -1,0 +1,62 @@
+
+TCS-LOADing.png
+size: 797,797
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TCS-LOADingFG
+  rotate: false
+  xy: 2, 284
+  size: 538, 511
+  orig: 538, 511
+  offset: 0, 0
+  index: -1
+TCS-LOADingMMER
+  rotate: false
+  xy: 593, 753
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+TCS-LOADingMMY
+  rotate: false
+  xy: 542, 652
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+TCS-LOADingYZZIB
+  rotate: false
+  xy: 542, 746
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+TCS-LOADingYZZIBRT
+  rotate: false
+  xy: 542, 695
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+TCS-LOADingYZZIY
+  rotate: false
+  xy: 593, 736
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+TCS-LOADingYZZIYER
+  rotate: false
+  xy: 642, 780
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+TCS-LOADingZI
+  rotate: false
+  xy: 2, 2
+  size: 570, 280
+  orig: 570, 280
+  offset: 0, 0
+  index: -1
