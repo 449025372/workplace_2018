@@ -1,5 +1,0 @@
-require("ResConfig")
-require("SnakeCfg")
-require("utils/Engine")
-require("utils/ViewBase")
-require("utils/Dialog")
